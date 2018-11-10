@@ -8,22 +8,4 @@
 278.0 Nemanja
 299.0 Aleksandar
 299.0 Dzenan
-100.0 Amer
-243.0 Nina
-265.0 Danijel
-267.0 Jasmin
-273.0 Snjezana
-274.0 Adan
-275.0 Dejan
-278.0 Nemanja
-299.0 Aleksandar
-299.0 Dzenan
-243.0 Nina
-265.0 Danijel
-267.0 Jasmin
-273.0 Snjezana
-274.0 Adan
-275.0 Dejan
-278.0 Nemanja
-299.0 Aleksandar
-299.0 Dzenan
+
